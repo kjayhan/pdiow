@@ -1,10 +1,8 @@
 ---
-title: "team"
+title: "Teams"
 format: html
 editor: visual
 ---
-
-# Teams
 
 Under construction
 
