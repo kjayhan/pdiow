@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  #google-analytics: ""
+  title: "Public Diplomacy in Other Words: A Journal of Public Diplomacy Initiative"
+  page-footer:
+    left: "© 2022 Kadir Jun Ayhan"
+    center: "Prepared with [Quarto](https://quarto.org)"
+  navbar:
+    right:
+      - icon: journal-text
+        href: https://www.journalofpd.com
+      - icon: envelope
+        href: mailto:ayhan@ewha.ac.kr 
+    left:
+      - href: index.qmd
+        text: "About"
+        file: index.qmd
+      - text: "Teams"
+        file: teams.qmd
+      - text: "Library"
+        file: library.qmd
+format:
+  html:
+    theme: flatly
+    css: 
+    - styles.css
+    toc: true
+
+editor: visual

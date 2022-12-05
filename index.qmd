@@ -1,0 +1,9 @@
+---
+title: "index"
+format: html
+editor: visual
+---
+
+# Public Diplomacy in Other Words
+
+Public diplomacy scholarship remains an English-language sub-field with few cross-linguistic conversations. With the aim of facilitating inclusiveness and dialogue in public diplomacy research, the Journal of Public Diplomacy launched a special issue initiative to compare non-English public diplomacy literature. In this project, the authors will systematically review the literature in non-English languages including Spanish, French, Chinese, Arabic, Turkish, Korean, Japanese, Russian, Vietnamese, Bahasa/ Malay, Romanian, Hindi, Dutch, Scandinavian (Danish, Norwegian, Swedish), German, Nepali, and Italian, offering insights into similarities and differences and their implications for public diplomacy scholarship and practice.

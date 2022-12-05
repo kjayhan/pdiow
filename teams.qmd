@@ -1,0 +1,43 @@
+---
+title: "team"
+format: html
+editor: visual
+---
+
+# Teams
+
+Under construction
+
+## Spanish
+
+## Chinese
+
+## Russian
+
+## French
+
+## Korean
+
+## Bahasa/ Indonesian
+
+## Arabic
+
+## Italian
+
+## Romanian
+
+## Turkish
+
+## Vietnamese
+
+## Scandinavian (Danish, Norwegian, Swedish)
+
+## German
+
+## Hindi
+
+# Nepalese
+
+## 
+
+\##
